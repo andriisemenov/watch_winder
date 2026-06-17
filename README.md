@@ -1,4 +1,5 @@
 # watch_winder
 3D printed watch winder, using 28BYJ and ESP32C3
 ### Wiring Schematic
-![SCHEMATIC](https://github.com/user-attachments/assets/371eaa53-4a67-41c6-b905-31f8d02fc284)
+<img width="1000" height="856" alt="image" src="https://github.com/user-attachments/assets/25c2dba2-26d8-450a-832a-c5be767cb8f6" />
+
